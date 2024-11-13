@@ -1,0 +1,7 @@
+module HW1(Y,A,B);
+input [7:0]A;
+input [7:0]B;
+output [15:0]Y;
+
+wire [15:0]Y;
+wire  ;
